@@ -554,9 +554,10 @@ administrator.html
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-05-01 202134.png>)
-![alt text](<Screenshot 2025-05-01 202143.png>)
-![alt text](<Screenshot 2025-05-01 202152.png>)
-![alt text](<Screenshot 2025-05-01 202203.png>)
+<img width="1919" height="1095" alt="image" src="https://github.com/user-attachments/assets/dd977200-865a-4013-ab00-6902344f2cc8" />
+<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/fbc479b4-09ac-4a61-85e0-818b6b52926e" />
+<img width="1919" height="1082" alt="image" src="https://github.com/user-attachments/assets/39648600-3d6e-4065-8a3d-a4c278edc68b" />
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/69b590dd-39d8-4069-a8da-8e973b9775eb" />
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
